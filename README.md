@@ -11,7 +11,7 @@
 
 ***HOLA***
 
-[Fes clic aquí per anar a Google](https://www.google.com)
+[Google](https://www.google.com)
 
 
 -PRIMERA PART
