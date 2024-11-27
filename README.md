@@ -1,5 +1,4 @@
 # esliceu 
-# Encapçalament de nivell 1
 ## Encapçalament de nivell 2
 ### Encapçalament de nivell 3
 #### Encapçalament de nivell 4
