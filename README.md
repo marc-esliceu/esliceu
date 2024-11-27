@@ -6,13 +6,18 @@
 ###### Encapçalament de nivell 6
 
 **HOLA**
+
 *HOLA*
+
 ***HOLA***
+
 [Fes clic aquí per anar a Google](https://www.google.com)
 
 
 -PRIMERA PART
+
 -2NA PART
+
 -3RA PART
 
 
